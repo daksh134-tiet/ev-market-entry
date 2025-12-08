@@ -1,0 +1,16 @@
+city,state,ev_registrations_2024,ev_registrations_2025_projected,current_charging_stations,population_millions,urban_vehicle_population_thousands,ev_penetration_rate_percent,charging_gap_stations_needed,market_growth_rate_percent,gov_subsidy_percent,infrastructure_score_out_of_100,market_priority_score_out_of_100
+Delhi,Delhi,125000,145000,450,32.5,2850,4.2,320,18.5,25,78,94
+Mumbai,Maharashtra,98000,115000,380,20.4,1950,3.8,280,17.2,22,75,91
+Bangalore,Karnataka,92000,108000,320,15.7,1620,3.5,310,19.1,28,72,89
+Hyderabad,Telangana,68000,82000,210,10.1,980,3.2,240,16.8,24,68,85
+Chennai,Tamil Nadu,54000,68000,195,7.1,850,2.9,210,15.4,21,65,82
+Pune,Maharashtra,65000,78000,240,7.4,920,3.4,260,17.9,26,70,80
+Ahmedabad,Gujarat,48000,62000,145,9.5,1100,2.8,300,18.2,23,62,78
+Kolkata,West Bengal,42000,54000,165,14.9,1350,2.5,280,14.1,19,58,75
+Jaipur,Rajasthan,38000,51000,120,4.2,620,2.3,210,16.5,20,55,71
+Lucknow,Uttar Pradesh,32000,44000,95,3.3,480,2.1,180,15.8,18,50,68
+Surat,Gujarat,35000,48000,110,6.1,780,2.4,200,17.1,22,52,70
+Indore,Madhya Pradesh,28000,38000,85,2.6,420,1.9,160,16.3,20,48,65
+Chandigarh,Chandigarh,22000,31000,75,1.3,240,1.8,130,15.9,24,51,62
+Kochi,Kerala,25000,35000,95,2.2,350,2.1,140,17.2,23,54,66
+Visakhapatnam,Andhra Pradesh,20000,28000,65,1.7,310,1.8,120,15.6,19,45,60
